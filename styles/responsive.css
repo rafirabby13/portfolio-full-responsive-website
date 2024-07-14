@@ -269,6 +269,10 @@
     .footer-content h2 {
       font-size: 1.8em;
     }
+    .footer-content h2 {
+        font-size: 1.8em;
+        color: rgb(54, 57, 88);
+      }
     .footer-content img {
       width: 2.7em;
       height: 2.7em;
@@ -403,7 +407,8 @@
         border-radius: 20px;
     }
     .footer-banner h1 {
-      color: rgb(253, 253, 253);
+        color: rgb(62, 62, 62);
+
       line-height: 1em;
    
       font-size: 2.5em;
@@ -419,6 +424,9 @@
     .footer-content h2 {
       font-size: 1.8em;
     }
+    .footer-content h2 {
+        font-size: 1.8em;
+      }
     .footer-content img {
       width: 2.7em;
       height: 2.7em;
